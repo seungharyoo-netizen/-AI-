@@ -1,0 +1,6 @@
+{
+  "name": "Nav-Smart Manager",
+  "description": "항법 통합 생산지원 시스템 (Nav-Smart Manager) - 고장탐구 및 생산성 분석 지원",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
